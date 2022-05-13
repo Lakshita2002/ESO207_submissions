@@ -1,3 +1,3 @@
 # ESO207_submissions
-Submissions for programming assignments, theory assignments, quizzes, midsem and endsem <br>
+Submissions for programming assignments<br>
 Hackerrank Username: lakshita_iitk
